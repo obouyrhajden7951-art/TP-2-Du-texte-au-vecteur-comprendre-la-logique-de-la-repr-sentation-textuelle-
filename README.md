@@ -1,0 +1,1 @@
+# TP-2-Du-texte-au-vecteur-comprendre-la-logique-de-la-repr-sentation-textuelle-
